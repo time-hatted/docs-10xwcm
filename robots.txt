@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-isxjdr.trans88.space/sitemap.xml
